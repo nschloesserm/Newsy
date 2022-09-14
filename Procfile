@@ -1,1 +1,1 @@
-wed: gunicorn newsy.wsgi
+web: gunicorn newsy.wsgi
